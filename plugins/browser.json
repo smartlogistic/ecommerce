@@ -1,0 +1,31 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.grup.ecommerce"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.grup.ecommerce"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "com.grup.ecommerce"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.grup.ecommerce"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.grup.ecommerce"
+        }
+    }
+}
